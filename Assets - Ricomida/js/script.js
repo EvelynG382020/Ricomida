@@ -1,0 +1,7 @@
+
+
+$(function(){
+    // métodos de jQuery...
+   
+
+});

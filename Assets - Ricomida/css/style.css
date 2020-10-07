@@ -1,0 +1,70 @@
+body {
+    font-family: 'Cabin', sans-serif;  
+}
+.lobster {
+    font-family: 'Lobster', cursive;
+}
+
+#font-family-lobster {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 2em;
+}
+.navbar-brand {
+    margin-left: 50px;
+}
+
+
+.nav-item {
+    color: #FFFFFF;
+
+}
+
+.enviar {
+    font-size: 10px;
+}
+
+.añadir {
+    font-size: 10px;
+}
+
+.foto-pizza {
+    width: 95%;
+    height: auto;
+    margin-left: 12px;
+}
+
+.card-news {
+    height: 400px;
+}
+
+.card-footer {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    background-color: #373A3C;
+    font-size: 2rem;
+    height: 121px;
+}
+
+.text-news {
+    margin-top: 5px; 
+    height: 150px;
+}
+
+.border-recetas {
+    border-top: solid #000000;
+    border-width: 1px;
+    border-collapse: collapse;
+    margin-bottom: 10%;
+    width: auto;
+}
+
+.carousel-indicators {
+    top: 130px;
+    color: black;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 70%;    
+}
